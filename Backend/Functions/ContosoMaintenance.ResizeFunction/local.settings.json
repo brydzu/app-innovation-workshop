@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "***REMOVED***",
+        "AzureWebJobsDashboard": "***REMOVED***",
+        "contosomaintenancedb_connectionstring": "***REMOVED***"
+    }
+}
