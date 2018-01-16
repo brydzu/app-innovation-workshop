@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<Storage Connection String>",
+    "AzureWebJobsDashboard": "<Storage Connection String>",
+    "CosmosDb": "<CosmosDB Connection String>",
+    "Ocp-Apim-Subscription-Key": "<Cognitive Services Computer Vision API Key>"
+  }
+}
